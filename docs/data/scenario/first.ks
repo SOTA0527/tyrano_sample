@@ -23,7 +23,7 @@
 
 [cm]
 
-[bg storage=sleep.jpg time=500]
+[bg 31107475_s.jpg　time=500]
 
 その後、私は二度とその大学に足を踏み入れることはなかった[l][r]
 
