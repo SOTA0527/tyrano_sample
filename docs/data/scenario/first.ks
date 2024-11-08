@@ -1,23 +1,22 @@
 *start
 
-[title name="走るか寝るかするメロス"]
+[title name="一般大学生の危機"]
 [hidemenubutton]
 [wait time=200]
 [freeimage layer="base"]
 
-「走るか寝るかするメロス」[l][r]
+「一般大学生の危機」[l][r]
 
-メロスは激怒した。[l][r]
+私は一般大学生[l][r]
 
-必ず、かの邪智暴虐の王を除かねばならぬと決意した。[l][r]
+落単すると留年が確定してしまう再履がある。[l][r]
 
-(中略)[l][r]
+私は試験前日に友達から遊びに行く誘いを受けてしまった。[l][r]
 
-ああ、何もかも、ばかばかしい。私は、醜い裏切り者だ。どうとも、勝手にするがよい。やんぬる哉。[l][r]
-メロスは...[l][r]
+さて、どうしたものか[l][r]
 
-[link target=*tag_sleep] →寝る [endlink][r]
-[link target=*tag_run] →走る [endlink][r]
+[link target=*tag_sleep] →遊ぶ [endlink][r]
+[link target=*tag_run] →遊ばない [endlink][r]
 [s]
 
 *tag_sleep
@@ -26,8 +25,7 @@
 
 [bg storage=sleep.jpg time=500]
 
-メロスは死んだように深く眠った。[l][r]
-勇者は、ひどく赤面した。[r]
+その後、私は二度とその大学に足を踏み入れることはなかった[l][r]
 
 【 BAD END 】[l][cm]
 
@@ -38,9 +36,10 @@
 [bg storage=run.jpg time=500]
 
 [cm]
-メロスは黒い風のように走った。[l][r]
-陽は、ゆらゆら地平線に没し、まさに最後の一片の残光も、消えようとした時、メロスは疾風の如く刑場に突入した。間に合った。[r]
+欲に負けずに必死に勉強した。[1][r]
+おかげで無事進級した。[l][r]
+しかし、懲りずにまた別の必修を落として再履になるのだった。
 
-【 GOOD END 】[l][cm]
+【 GOOD END ?】[l][cm]
 
 [jump target=*start]
